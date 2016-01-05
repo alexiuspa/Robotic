@@ -1,7 +1,13 @@
-int main()
+void main()
 {
 
+ while(1)
+ {
+  
+  
+  
+ }
  
-  return 0;
+  return ;
 
 }
